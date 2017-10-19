@@ -11,7 +11,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"5"
-      },
+      }
+      ,
       {  
          "rank":"2",
          "points":"190",
@@ -24,7 +25,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"3"
-      },
+      }
+      ,
       {  
          "rank":"3",
          "points":"160",
@@ -37,7 +39,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"2"
-      },
+      }
+      ,
       {  
          "rank":"4",
          "points":"116",
@@ -50,7 +53,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"2"
-      },
+      }
+      ,
       {  
          "rank":"5",
          "points":"100",
@@ -63,7 +67,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"5",
          "points":"100",
@@ -76,7 +81,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"5",
          "points":"100",
@@ -89,7 +95,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"5",
          "points":"100",
@@ -102,7 +109,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"7",
          "points":"85",
@@ -115,7 +123,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"2"
-      },
+      }
+      ,
       {  
          "rank":"8",
          "points":"80",
@@ -128,7 +137,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"8",
          "points":"80",
@@ -141,7 +151,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"10",
          "points":"60",
@@ -154,7 +165,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"10",
          "points":"60",
@@ -167,7 +179,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"10",
          "points":"60",
@@ -180,7 +193,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"10",
          "points":"60",
@@ -193,7 +207,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"12",
          "points":"50",
@@ -206,7 +221,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"12",
          "points":"50",
@@ -219,7 +235,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"12",
          "points":"50",
@@ -232,7 +249,8 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
+      }
+      ,
       {  
          "rank":"12",
          "points":"50",
@@ -245,83 +263,6 @@
          "gender":"M",
          "image":"",
          "numEvents":"1"
-      },
-      {  
-         "rank":"12",
-         "points":"50",
-         "UID":"304195",
-         "lastName":"Hounslow",
-         "firstName":"Ben",
-         "city":"",
-         "state":"",
-         "country":"GBR",
-         "gender":"M",
-         "image":"",
-         "numEvents":"1"
-      },
-      {  
-         "rank":"14",
-         "points":"45",
-         "UID":"304114",
-         "lastName":"Wahl",
-         "firstName":"Buddy",
-         "city":"",
-         "state":"",
-         "country":"GBR",
-         "gender":"M",
-         "image":"",
-         "numEvents":"1"
-      },
-      {  
-         "rank":"14",
-         "points":"45",
-         "UID":"304126",
-         "lastName":"Watkins",
-         "firstName":"Ryan",
-         "city":"",
-         "state":"",
-         "country":"GBR",
-         "gender":"M",
-         "image":"",
-         "numEvents":"1"
-      },
-      {  
-         "rank":"16",
-         "points":"40",
-         "UID":"305327",
-         "lastName":"Dalton",
-         "firstName":"Chris",
-         "city":"",
-         "state":"",
-         "country":"GBR",
-         "gender":"M",
-         "image":"",
-         "numEvents":"1"
-      },
-      {  
-         "rank":"17",
-         "points":"36",
-         "UID":"305326",
-         "lastName":"Tolliday",
-         "firstName":"Jack",
-         "city":"",
-         "state":"",
-         "country":"GBR",
-         "gender":"M",
-         "image":"",
-         "numEvents":"1"
-      },
-      {  
-         "rank":"18",
-         "points":"32",
-         "UID":"304128",
-         "lastName":"Constable",
-         "firstName":"Harry",
-         "city":"",
-         "state":"",
-         "country":"GBR",
-         "gender":"M",
-         "image":"",
-         "numEvents":"1"
       }
+      ,
    ]
